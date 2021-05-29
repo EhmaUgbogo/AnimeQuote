@@ -1,5 +1,5 @@
 # AnimeQuote
-Anime quotes rest api app with mvvm, LiveData, Coroutines, Navigation Component etc
+Anime quotes image rest api app with mvvm, LiveData, Coroutines, Navigation Component, clean achitecture etc
 An app created during mentoring with Zuri / Ingressive4Good interns to explain core android concept via example
 
 Youtube
