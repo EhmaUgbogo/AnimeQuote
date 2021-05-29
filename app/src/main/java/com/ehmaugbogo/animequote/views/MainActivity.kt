@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
 
         val progress = findViewById<ProgressBar>(R.id.progress)
 
+
         viewModel.getAllAvailableAnimes().observe(this){ result ->
             when(result){
                 Result.Loading -> progress.isVisible = true
